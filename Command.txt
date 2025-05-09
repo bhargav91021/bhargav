@@ -1,1 +1,10 @@
 git clone <!--link->
+
+git status
+
+git add <!--File name->
+git add . //for all files
+
+git commit -m "message"
+
+
